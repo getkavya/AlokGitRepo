@@ -1,0 +1,8 @@
+{
+	"name":"Manoj",
+	"dept":"Digital ",
+	"designation": "Team Lead",
+	"dob": "1979-10-19",
+	"doj": "2010-08-26",
+	"emailid":"alok.maheshwari@accenture.com"
+}
